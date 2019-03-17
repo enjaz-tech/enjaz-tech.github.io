@@ -1,6 +1,6 @@
 ---
 category: Stuff
-path: '/stuff/:id'
+path: '/stuff'
 title: 'Delete a thing'
 type: 'DELETE'
 
