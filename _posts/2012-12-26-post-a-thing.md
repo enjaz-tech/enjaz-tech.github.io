@@ -1,6 +1,6 @@
 ---
-category: Stuff
-path: '/stuff'
+category: REST api
+path: '/rest'
 title: 'Post a payment'
 type: 'POST'
 

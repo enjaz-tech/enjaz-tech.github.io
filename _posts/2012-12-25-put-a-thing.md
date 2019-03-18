@@ -1,6 +1,6 @@
 ---
-category: Stuff
-path: '/stuff/:id'
+category: REST api
+path: '/rest'
 title: 'Update a thing'
 type: 'PUT'
 
